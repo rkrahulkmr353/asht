@@ -6,6 +6,15 @@ bin-release/
 
 # Other files and folders
 .settings/
+.classpath
+target/
+
+# eclipse files
+.factorypath
+.project
+
+#IntelliJ Idea files
+.idea/
 
 # Executables
 *.swf
